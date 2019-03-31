@@ -31,10 +31,15 @@ XXX
 Perspective: new research software project with a focus on sustainability. [Hexatomic]
 ![hexatomic.github.io](https://hexatomic.github.io)
 
-
 ## Documentation types?
 
 [IMG: UML/requirements] [IMG: Agile Manifesto]
+
+
+## [New slide?]
+
+Use case / explain Hexatomic / show what we've done to determine suitable tooling
+Tooling is sorted, now we need to decide what and how to document
 
 
 ## Discussion starters
