@@ -10,6 +10,13 @@ themeoptions:
 aspectratio: 169
 ---
 
+## Aim of this session
+
+XXX
+
+- Okay to record (for note-taking?)
+
+
 # Documentation as key to software sustainability
 
 
@@ -46,3 +53,7 @@ Perspective: new research software project with a focus on sustainability. [Hexa
 - What am I missing?
 
 Let's start the discussion // become part of it
+
+## Questions / comments
+
+Questions first
