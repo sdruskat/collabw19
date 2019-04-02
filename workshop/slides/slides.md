@@ -55,6 +55,8 @@ Requirements and evaluation:
 - Code comments
 - API documentation
 - README
+- User guide
+- Glossary
 ::::
 :::: {.column width=0.3}
 ### Practice-based documentation
