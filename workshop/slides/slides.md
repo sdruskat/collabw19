@@ -14,8 +14,10 @@ aspectratio: 169
 
 - Start a discussion on documentation methods in research software projects.
 
-Notes at: http://bit.ly/cw19-docs-workshop  
+Notes at: [bit.ly/cw19-docs-workshop](http://bit.ly/cw19-docs-workshop)  
 Please add your name and email if you want to contribute to a coherent document to be published.
+
+Slides at: [bit.ly/cw19-docs-workshop-slides](http://bit.ly/cw19-docs-workshop-slides)
 
 
 # Documentation is key for software sustainability
